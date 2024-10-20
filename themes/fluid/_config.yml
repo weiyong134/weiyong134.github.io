@@ -375,7 +375,7 @@ navbar:
       key: '文档',
       icon: 'iconfont icon-books',
       submenu: [
-        { key: '主题博客', link: 'https://hexo.fluid-dev.com/' },
+        { key: 'gtkmm文档', link: 'https://weiyong134.github.io/web/gtkmm-3-tutorial/' },
         { key: '配置指南', link: 'https://hexo.fluid-dev.com/docs/guide/' },
         { key: '图标用法', link: 'https://hexo.fluid-dev.com/docs/icon/' }
       ]
