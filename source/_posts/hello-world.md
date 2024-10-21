@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Hello World2
 categories:
     - cate
 tags:
@@ -14,6 +14,8 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 ``` bash
 $ hexo new "My New Post"
 ```
+
+![sd](images/default.jpg)
 
 More info: [Writing](https://hexo.io/docs/writing.html)
 
